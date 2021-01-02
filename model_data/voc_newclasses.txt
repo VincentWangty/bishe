@@ -1,0 +1,8 @@
+fire
+smoke
+cloud 
+mountain
+redflection
+redbackground
+redbag
+sun
